@@ -1,0 +1,36 @@
+.react-logo {
+    width: 40px;
+    margin-right: 5px;
+}
+
+* {
+    box-sizing: border-box;
+} 
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color:#21222A;
+    height:90px;
+    padding: 30px 25px;
+}
+
+.nav--logo_text, .nav--title {
+    margin: 0;
+}
+
+.nav--logo_text {
+    margin-right: auto;
+    color: #61DAFB;
+    font-size: 22px;
+}
+
+.nav--title {
+    color: #DEEBF8;
+}
+
